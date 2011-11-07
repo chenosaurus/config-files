@@ -1,3 +1,5 @@
 [
-    { "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/User/DeleteLine.sublime-macro"}}
+    { "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/User/DeleteLine.sublime-macro"}},
+    { "keys": ["super+up"], "command": "swap_line_up" },
+	{ "keys": ["super+down"], "command": "swap_line_down" }
 ]
